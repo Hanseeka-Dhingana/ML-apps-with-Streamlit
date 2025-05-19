@@ -21,7 +21,7 @@ model = load_model()
 
 
 # Streamlit UI
-st.title("📈 Salary Predictor")  
+st.title("📈 Dukhi Aatma Salary Predictor")  
 
 # Get user input 
 years_exp = st.number_input(
